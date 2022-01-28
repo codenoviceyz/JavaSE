@@ -13,6 +13,7 @@
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/jsp-01/pom.xml" />
         <option value="$PROJECT_DIR$/resquest/pom.xml" />
       </set>
     </option>
