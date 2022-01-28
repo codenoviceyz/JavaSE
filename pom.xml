@@ -14,7 +14,7 @@
         <module>response</module>
         <module>request</module>
         <module>cache</module>
-        <module>jsp-01</module>
+        <module>filter</module>
     </modules>
 
     <packaging>pom</packaging>
