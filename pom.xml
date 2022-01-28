@@ -55,6 +55,17 @@
             <artifactId>javax.servlet.jsp-api</artifactId>
             <version>2.3.3</version>
         </dependency>
+        <dependency>
+            <groupId>javax.servlet.jsp.jstl</groupId>
+            <artifactId>jstl-api</artifactId>
+            <version>1.2</version>
+        </dependency>
+        <dependency>
+            <groupId>taglibs</groupId>
+            <artifactId>standard</artifactId>
+            <version>1.1.2</version>
+        </dependency>
+        
     </dependencies>
     <!--在build中配置resources,来防止我们资源导出失败的问题-->
     <build>
